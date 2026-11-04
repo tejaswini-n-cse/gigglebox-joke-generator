@@ -2,6 +2,8 @@
 
 A responsive, **frontend-only** joke generator made with HTML, CSS and vanilla JavaScript.
 
+![QR code generator screenshot](screenshot.png)
+
 ## Features
 - Fetch random jokes from JokeAPI.
 - Filter jokes by category (Any, Programming, Miscellaneous, Pun, Spooky and Christmas).
@@ -36,7 +38,6 @@ No backend or API key is required. An internet connection is needed to fetch jok
 ## Built with
 HTML5 · CSS3 · Vanilla JavaScript · Fetch API · localStorage · JokeAPI
 
-![QR code generator screenshot](screenshot.png)
 
 ## Author
 
