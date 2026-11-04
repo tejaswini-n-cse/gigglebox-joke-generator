@@ -36,6 +36,8 @@ No backend or API key is required. An internet connection is needed to fetch jok
 ## Built with
 HTML5 · CSS3 · Vanilla JavaScript · Fetch API · localStorage · JokeAPI
 
+![QR code generator screenshot](screenshot.png)
+
 ## Author
 
 **Tejaswini N**
